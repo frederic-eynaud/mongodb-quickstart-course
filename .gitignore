@@ -100,3 +100,10 @@ ENV/
 # mypy
 .mypy_cache/
 .idea
+.vs/VSWorkspaceState.json
+.vs/mongodb-quickstart-course/v17/.suo
+src/starter_code_snake_bnb/.vs/slnx.sqlite
+src/starter_code_snake_bnb/.vs/VSWorkspaceState.json
+src/starter_code_snake_bnb/.vs/starter_code_snake_bnb/FileContentIndex/866a77f8-3df4-43a1-b9f1-152ae5c1c555.vsidx
+src/starter_code_snake_bnb/.vs/starter_code_snake_bnb/FileContentIndex/read.lock
+src/starter_code_snake_bnb/.vs/starter_code_snake_bnb/v17/.suo
