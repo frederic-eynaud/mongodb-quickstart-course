@@ -10,7 +10,7 @@ class Cage(mongoengine.Document):
     name = mongoengine.StringField(required=True)
     price = mongoengine.FloatField(required=True)
     square_meters = mongoengine.FloatField(required=True)
-    is_carpeted = mongoengine.BooleanField(required=True
+    is_carpeted = mongoengine.BooleanField(required=True)
     has_toy = mongoengine.BooleanField(required=True)
     allow_dangerous_snakes = mongoengine.BooleanField(default=False)
 
